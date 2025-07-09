@@ -24,7 +24,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     $resultado = ehPalindromo($palavra);
     
-    echo "A palavra \"" . htmlspecialchars($palavra) . "\" ";
+    echo "A palavra \"" . ($palavra) . "\" ";
     echo $resultado ? "É um palíndromo!" : "NÃO é um palíndromo";
 };
 ?>
