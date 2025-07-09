@@ -16,7 +16,7 @@
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $limite = $_POST["numero"];
 
-    function fibonacciAteLimite($limite) {
+    function fibonacci($limite) {
         $sequencia = [];
         $a = 0;
         $b = 1;
@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         return $sequencia;
     }
 
-    $fib = fibonacciAteLimite($limite);
+    $fib = fibonacci($limite);
     echo "Sequência de Fibonacci até $limite:<br>";
     echo implode(", ", $fib);
 };
