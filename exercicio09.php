@@ -34,6 +34,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     $resultado = somarIntervalo($numero1, $numero2);
     echo "A soma de todos os números entre $numero1 e $numero2 é: " . $resultado;
+    
 };
 ?>
 

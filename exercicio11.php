@@ -19,7 +19,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     function ehPalindromo($palavra) {
         $palavra = strtolower($palavra); 
         $palavra = preg_replace('/[^a-z0-9]/', '', $palavra); 
-        return $palavra == strrev($palavra);
+        return $palavra == ($palavra);
     }
 
     $resultado = ehPalindromo($palavra);
