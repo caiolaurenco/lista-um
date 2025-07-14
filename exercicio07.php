@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Verificador de Número Perfeito</title>
+    <title> Verificar se o número é perfeito .</title>
 </head>
 <body>
     <h1>Verificador de Número Perfeito</h1>

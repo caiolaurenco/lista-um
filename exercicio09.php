@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Soma de Números no Intervalo</title>
+    <title>Receber dois números e exibir a soma de todos os números entre eles</title>
 </head>
 <body>
 

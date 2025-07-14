@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sequência de Fibonacci</title>
+    <title> Receber um número e exibir a sequência de Fibonacci até esse número</title>
 </head>
 <body>
 

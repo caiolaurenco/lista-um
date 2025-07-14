@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Conversor Celsius para Fahrenheit</title>
+    <title> Converter graus Celsius para Fahrenheit</title>
 </head>
 <body>
 

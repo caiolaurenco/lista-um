@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contador de Vogais</title>
+    <title>Receber uma string e exibir a quantidade de vogais</title>
 </head>
 <body>
 

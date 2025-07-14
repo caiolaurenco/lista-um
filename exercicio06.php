@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Informe se é par ou impar</title>
+    <title> Exibir todos os divisores de um número.</title>
 </head>
 <body>
 

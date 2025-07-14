@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Verificador de Palíndromo</title>
+    <title>Verificar se uma palavra é um palíndromo</title>
 </head>
 <body>
 
